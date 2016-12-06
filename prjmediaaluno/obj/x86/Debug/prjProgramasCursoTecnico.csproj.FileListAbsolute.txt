@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.exe
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Properties.Resources.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.exe
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcularMediaAluno.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.loopListBox.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Intro.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.partyhard.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcSalFunc.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.AulaAgenda12.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Loops.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.IfElseSwitch.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Forum.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Vetor.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\prjmediaaluno\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Matriz.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.exe
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.exe
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcularMediaAluno.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Forum.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Matriz.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.IfElseSwitch.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Loops.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.loopListBox.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Intro.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.partyhard.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcSalFunc.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.AulaAgenda12.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Properties.Resources.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Vetor.resources
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.exe
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.exe
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\bin\Debug\prjProgramasCursoTecnico.pdb
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcularMediaAluno.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Forum.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Matriz.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.IfElseSwitch.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Loops.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.loopListBox.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Intro.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.partyhard.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.CalcSalFunc.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.AulaAgenda12.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.ExercAgenda13Vetor.resources
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno_2\Desktop\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Project_40\C# AND BETTER\Projetos curso técnico\ProgramasCursoTecnico\prjmediaaluno\obj\x86\Debug\prjProgramasCursoTecnico.FolhaPagamentoForm.resources
